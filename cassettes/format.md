@@ -293,7 +293,7 @@ end
 
 _When_ I run `ruby cassette_compressed.rb 'Hello'`
 
-_Then_ the file "cassettes/example.zz" should contain compressed YAML like:
+_Then_ the file "cassettes/example.gz" should contain compressed YAML like:
 
 ```
 ---
