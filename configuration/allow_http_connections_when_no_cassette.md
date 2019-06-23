@@ -65,3 +65,4 @@ _And_ the file "cassettes/localhost.yml" should contain "Hello"
 _When_ I run `ruby record_replay_cassette.rb`
 
 _Then_ the output should contain "Response: Hello".
+lo".
